@@ -30,5 +30,5 @@ Customization: Adjust the settings to fit your preferences and needs.
 Usage: Start controlling your mouse with eye movements and experience a new way of interacting with your computer.
 
 <p align="center">
-<img src = https://github.com/Manzoor-22/AeroGesture/blob/main/instruction.png?raw=true>
+<img src = https://github.com/ahmed20455/AeroGestture--Eye-Controlled-Virtual-Mouse/blob/main/instruction.png>
 </p>
